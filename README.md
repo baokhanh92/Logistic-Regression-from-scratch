@@ -1,5 +1,4 @@
-# Data-engineering-Logistic-Regression-from-scratch
-# [Data-engineering-Logistic-Regression-from-scratch](/9lRMLcbMR--joBvR84z5KA)
+# [Data-engineering-Logistic-Regression-from-scratch]()
 ---
 ## [ 1. OVERVIEW ](/9lRMLcbMR--joBvR84z5KA)
 
