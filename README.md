@@ -11,6 +11,7 @@
 [ **1.2 What you can expect in this github**: ]() 
 1. Demo of how to use data engineering to better predict the outcome
 2. How to build a logistic regression class
+
 ![](https://i.imgur.com/7tjGM4t.png)
 
 ---
@@ -18,6 +19,7 @@
 
 ### [2.1 Data engineering]()
 **- By doing some simple data enginerring, I can increase my accuracy score form 73% to about 80%. Let's check how I did that in the ipynb file.**
+
 ![](https://i.imgur.com/Lgwq3ft.png)
 
 ### [2.2 Logistic regression]()
