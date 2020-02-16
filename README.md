@@ -1,5 +1,4 @@
-# [Data-engineering-Logistic-Regression-from-scratch]()
----
+
 ## [ 1. OVERVIEW ]()
 
 [ **1.1 About the data**: ]() 
